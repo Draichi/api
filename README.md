@@ -1,5 +1,5 @@
 # api 
-![screenshot](Screenshot.png?raw=true "Optional Title")
+![screenshot](screenshot.png?raw=true "screenshot")
 
 > This is an API in node.js that serves a list of images with title and description. You can add, remove and delete this itens.
 
